@@ -1,0 +1,1 @@
+Greetings to all those interested. Just in case, before compiling, give each executable file the maximum access rights "chmod + x......". The files "erproc.c" and "erproc.h" are required for the operation and compilation of "Server.c". Look for commands to compile in the Makefile.
